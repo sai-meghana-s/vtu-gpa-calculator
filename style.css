@@ -100,6 +100,7 @@ button:hover {
     margin-top: 15px;
     justify-content: center;
 }
+
 .semester-buttons {
     gap: 50px;
     margin: 10px;
@@ -138,17 +139,16 @@ button:hover {
     font-weight: bold;
     padding-bottom: 2px;
 }
+
 .numerator {
     border-bottom: 2px solid black;
 }
-
 
 .cgpa-instruction {
     text-align: center;
     font-size: 16px;
     color: #666;
 }
-
 
 #cgpa-result,#result {
     text-align: center;
@@ -157,8 +157,6 @@ button:hover {
     margin-top: 10px;
 }
 
-
-
 .sgpa-container {
     display: flex;
     gap: 20px;
@@ -166,6 +164,7 @@ button:hover {
     align-items: flex-start;
     margin-top: 20px;
 }
+
 .sgpa-section {
     flex: 1;
     min-width: 250px;
@@ -176,6 +175,7 @@ button:hover {
     background-color: #f9f9f9;
     text-align: center;
 }
+
 .scrollable {
     max-height: 300px;
     overflow-y: auto;
@@ -185,6 +185,7 @@ button:hover {
     margin: 10px auto;
     max-width: 600px;
 }
+
 .reset-btn, button.back-btn {
     display: block;
     width: 120px;
@@ -220,8 +221,6 @@ th, td {
     text-align: center;
     background-color: #cfe6ec;
 }
-
-
 
 @media (max-width: 600px) {
     .container {
