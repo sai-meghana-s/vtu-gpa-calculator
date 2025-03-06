@@ -212,15 +212,16 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    
 }
 
 th, td {
-    border: 1px solid #ddd;
+    border: 2px solid black;
     padding: 8px;
     text-align: center;
-    background-color: wheat;
+    background-color: #cfe6ec;
 }
+
+
 
 @media (max-width: 600px) {
     .container {
@@ -231,5 +232,4 @@ th, td {
     button {
         width: 90%;
     }
-    
 }
