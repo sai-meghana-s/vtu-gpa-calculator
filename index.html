@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VTU SGPA & CGPA Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to VTU SGPA & CGPA Calculator</h1>
+
+        <!-- Home Page -->
+        <section id="home">
+            <p>This tool helps VTU students calculate their SGPA & CGPA for 2022 scheme.</p>
+            <div class="type-buttons">
+                <button onclick="selectType('SGPA')">VTU SGPA Calculator</button>
+                <button onclick="selectType('CGPA')">VTU CGPA Calculator</button>
+            </div>
+        </section>
+        
+        <!-- SGPA Calculation Page -->
+        <section id="sgpacalculator" class="hidden">
+            <h2>VTU SGPA Calculator</h2>
+            <h3>Select Your Branch</h3>
+            <div id="branchButtons"></div>
+            <h3 id="selectedBranch"></h3>
+            <h3>Select Your Semester</h3>
+            <div id="semesterButtons" class="hidden"></div>
+            <h3 id="selectedSemester"></h3>
+            <h3>Enter your marks out of 100</h3>
+
+            <table id="subjectsTable" class="hidden">
+                <tr>
+                    <th>Subject Name</th>
+                    <th>Subject Code</th>
+                    <th>Credits</th>
+                    <th>Marks</th>
+                </tr>
+            </table>
+            <br>
+            <p id="result"></p>
+            <button class="action-btn hidden" id="calculateBtn" onclick="calculateSGPA()">Calculate SGPA</button>
+            <table id="sgpaCalculationTable" class="hidden">
+                <tr>
+                    <th>Subject Name</th>
+                    <th>Marks</th>
+                    <th>Grade</th>
+                    <th>Grade Points</th>
+                    <th>Credits</th>
+                    <th>Weighted Grade Points</th>
+                </tr>
+            </table>
+            <button class="back-btn" onclick="goBackToHomeFromSGPA()">Back</button>
+            <button class="reset-btn hidden" id="resetSGPA" onclick="resetSGPA()">Reset</button>
+        </section>
+
+        <!-- CGPA Calculation Page -->
+        <section id="cgpacalculator" class="hidden">
+            <h2>VTU CGPA Calculator</h2>
+            <p class="cgpa-instruction">Enter your SGPA for each semester. If you are in a lower semester, leave the field blank.</p>
+            <div id="cgpa-fields"></div>
+            <p id="cgpa-result"></p>            
+                <div style="text-align: center; margin-top: 20px;">
+                    <button class="action-btn" onclick="calculateCGPA()">Calculate CGPA</button>
+                    <button class="back-btn" onclick="goBackToHomeFromCGPA()">Back</button>
+                    <button class="reset-btn" onclick="resetCGPA()">Reset</button>
+                </div>
+        </section>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

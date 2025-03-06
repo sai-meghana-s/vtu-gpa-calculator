@@ -1,0 +1,1432 @@
+{
+  "SubjectsData":[
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Mathematics for CSE Stream",
+    "SubjectCode": "BMATS101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Applied Physics for CSE stream",
+    "SubjectCode": "BPHYS102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Principles of Programming Using C",
+    "SubjectCode": "BPOPS103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Mathematics for EEE Stream",
+    "SubjectCode": "BMATE101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Applied Physics for EEE stream",
+    "SubjectCode": "BPHYE102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Elementsof Electrical Engineering \/  Basic Electronics for EEE stream",
+    "SubjectCode": "BEEE103 \/ 203 \/ BBEE103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Mathematics for Civil Engg stream",
+    "SubjectCode": "BMATC101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Applied Physics for Civil Engg stream",
+    "SubjectCode": "BPHYC102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Engineering Mechanics",
+    "SubjectCode": "BCIVC103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Mathematics for Mechanical Engg\nStream\n",
+    "SubjectCode": "BMATM101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Applied Physics for Mechanical  Engg\nStream ",
+    "SubjectCode": "BPHYM102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Elements of Mechanical Engineering",
+    "SubjectCode": "BEMEM103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Physics Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Mathematics for CSE Stream",
+    "SubjectCode": "BMATS101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Applied Chemistry for CSE stream",
+    "SubjectCode": "BPHYS102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Computer-Aided Engineering Drawing",
+    "SubjectCode": "BCEDK103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Mathematics for EEE Stream",
+    "SubjectCode": "BMATE101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Applied Chemistry for EEE stream",
+    "SubjectCode": "BPHYE102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Computer-Aided Engineering Drawing",
+    "SubjectCode": "BCEDK103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Mathematics for Civil Engg stream",
+    "SubjectCode": "BMATC101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Applied Chemistry for Civil Engg stream",
+    "SubjectCode": "BPHYC102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Computer-Aided Engineering Drawing",
+    "SubjectCode": "BCEDK103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Mathematics for Mechanical Engg\nStream\n",
+    "SubjectCode": "BMATM101 \/ 201",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Applied  Chemistry for Mechanical Engg\nStream ",
+    "SubjectCode": "BCHEM102 \/ 202",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Computer-Aided Engineering Drawing",
+    "SubjectCode": "BCEDK103 \/ 203",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Engineering Science Course",
+    "SubjectCode": "BESCK104x \/ 204x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Emerging Technology Course \/ Programming Languages Course",
+    "SubjectCode": "BETCK105x \/205x   \/   BPLCK105x \/ 205x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Communicative English \/ Professional Writing Skills in English",
+    "SubjectCode": "BENGK106 \/ 206   \/   BPWSK106 \/ 206",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Samskrutika Kannada (or) Balake Kannada \/ Indian Constitution",
+    "SubjectCode": "BKSKK107 \/ 207 (or) BKBKK107 \/ 207  \/  BICOK107 \/ 207 ",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "Chemistry Cycle",
+    "SubjectName": "Innovation and Design Thinking \/ Scientific Foundations of Health",
+    "SubjectCode": "BIDTK158 \/ 258 \/ BSFHK158 \/ 258",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Mathematics for Computer Science",
+    "SubjectCode": "BCS301",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Digital Design & Computer Organization",
+    "SubjectCode": "BCS302",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Operating Systems",
+    "SubjectCode": "BCS303",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Data Structures and Applications",
+    "SubjectCode": "BCS304",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Data Structures Lab",
+    "SubjectCode": "BCSL305",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BCS306x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Social Connect and Responsibility",
+    "SubjectCode": "BSCK307",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BCS358x",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "3rd Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Engineering Mathematics for EEE",
+    "SubjectCode": "BEE301",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Electric Circuit Analysis",
+    "SubjectCode": "BEE302",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Analog Electronic Circuits",
+    "SubjectCode": "BEE303",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Transformers and Generators",
+    "SubjectCode": "BEE304",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Transformers and Generators lab",
+    "SubjectCode": "BEEL305",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BEE306x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Social Connect and Responsibility",
+    "SubjectCode": "BSCK307",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BEE358x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "3rd Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Strength of Materials",
+    "SubjectCode": "BCV301",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Engineering Survey",
+    "SubjectCode": "BCV302",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Engineering Geology",
+    "SubjectCode": "BCV303",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Water Supply and Waste water Engineering",
+    "SubjectCode": "BCV304",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Computer Aided Building Planning and Drawing",
+    "SubjectCode": "BCV305",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BCV306x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Social Connect and Responsibility",
+    "SubjectCode": "BSCK307",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BCV358x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "3rd Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Mechanics of Materials",
+    "SubjectCode": "BME301",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Manufacturing Process",
+    "SubjectCode": "BME302",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Material Science and Engineering",
+    "SubjectCode": "BME303",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Basic Thermodynamics",
+    "SubjectCode": "BME304",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Introduction to Modelling and Design for Manufacturing",
+    "SubjectCode": "BMEL305",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BME306x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Social Connect and Responsibility",
+    "SubjectCode": "BSCK307",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BME358x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "3rd Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Analysis & Design of Algorithms",
+    "SubjectCode": "BCS401",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Microcontrollers",
+    "SubjectCode": "BCS402",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Database Management Systems",
+    "SubjectCode": "BCS403",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Analysis & Design of Algorithms Lab",
+    "SubjectCode": "BCSL404",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Biology For Computer Engineers",
+    "SubjectCode": "BBOC407",
+    "Credits": 2
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Universal human values course",
+    "SubjectCode": "BUHK408",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BCS405x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BCS456x",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "4th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Electric Motors",
+    "SubjectCode": "BEE401",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Transmission and Distribution",
+    "SubjectCode": "BEE402",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Microcontrollers",
+    "SubjectCode": "BEE403",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Electric Motors lab",
+    "SubjectCode": "BEEL404",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Biology For Engineers",
+    "SubjectCode": "BBOK407",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Universal human values course",
+    "SubjectCode": "BUHK408",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BEE405x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BEE456x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "4th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Analysis of Structures",
+    "SubjectCode": "BCV401",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Fluid Mechanics and Hydraulics",
+    "SubjectCode": "BCV402",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Transportation Engineering",
+    "SubjectCode": "BCV403",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Building Materials Testing Lab",
+    "SubjectCode": "BCVL404",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Biology For Engineers",
+    "SubjectCode": "BBOK407",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Universal human values course",
+    "SubjectCode": "BUHK408",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BCV405x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BCV456x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "4th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Applied Thermodynamics",
+    "SubjectCode": "BME401",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Machining Science & Metrology",
+    "SubjectCode": "BME402",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Fluid Mechanics",
+    "SubjectCode": "BME403",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Mechanical Measurements and Metrology lab",
+    "SubjectCode": "BMEL404",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Biology For Engineers",
+    "SubjectCode": "BBOK407",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Universal human values course",
+    "SubjectCode": "BUHK408",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "ESC\/ETC\/PLC",
+    "SubjectCode": "BME405x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Enhancement Course ",
+    "SubjectCode": "BME456x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "4th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Software Engineering & Project Management",
+    "SubjectCode": "BCS501",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Computer Networks",
+    "SubjectCode": "BCS502",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Theory of Computation",
+    "SubjectCode": "BCS503",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Web Technology Lab",
+    "SubjectCode": "BCSL504",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BCS515x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Mini Project",
+    "SubjectCode": "BCS586",
+    "Credits": 2
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Research Methodology and IPR",
+    "SubjectCode": "BRMK557",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "Environmental Studies and E-waste Management",
+    "SubjectCode": "BCS508",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "5th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Engineering Management and Entrepreneurship",
+    "SubjectCode": "BEE501",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Signals & DSP",
+    "SubjectCode": "BEE502",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Power Electronics",
+    "SubjectCode": "BEE503",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Power Electronics Lab",
+    "SubjectCode": "BEEL504",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BEE515x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Mini Project",
+    "SubjectCode": "BEE586",
+    "Credits": 2
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Research Methodology and IPR",
+    "SubjectCode": "BRMK557",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "Environmental Studies and E-waste Management",
+    "SubjectCode": "BESK508",
+    "Credits": 2
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "5th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Construction Management and Entrepreneurship",
+    "SubjectCode": "BCV501",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Geotechnical Engineering",
+    "SubjectCode": "BCV502",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Concrete Technology",
+    "SubjectCode": "BCV503",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Environmental Engineering Lab",
+    "SubjectCode": "BCV504",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BCV515x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Mini Project\/Extensive Survey Project",
+    "SubjectCode": "BCV586",
+    "Credits": 2
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Research Methodology and IPR",
+    "SubjectCode": "BRMK557",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "Environmental Studies and E-waste Management",
+    "SubjectCode": "BESK508",
+    "Credits": 2
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "5th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Industrial Management & Entrepreneurship",
+    "SubjectCode": "BME501",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Turbo machines",
+    "SubjectCode": "BME502",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Theory of Machines",
+    "SubjectCode": "BME503",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "CNC Programming and 3-D Printing lab",
+    "SubjectCode": "BME504L",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BME515x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Mini Project",
+    "SubjectCode": "BME586",
+    "Credits": 2
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Research Methodology and IPR",
+    "SubjectCode": "BRMK557",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "Environmental Studies and E-waste Management",
+    "SubjectCode": "BESK508",
+    "Credits": 2
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "5th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Cloud Computing (Open Stack \/Google)",
+    "SubjectCode": "BCS601",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Machine Learning",
+    "SubjectCode": "BCS602",
+    "Credits": 4
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BXX613x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Open Elective Course",
+    "SubjectCode": "BXX654x",
+    "Credits": 3
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Project Phase I",
+    "SubjectCode": "BCS685",
+    "Credits": 2
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Machine Learning lab",
+    "SubjectCode": "BCSL606",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Development Course",
+    "SubjectCode": "BXX657x",
+    "Credits": 1
+   },
+   {
+    "Branch": "CSE Stream Scheme (CSE\/ISC\/BT)",
+    "Semester": "6th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Power system Analysis - I",
+    "SubjectCode": "BEE601",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Control Systems",
+    "SubjectCode": "BEE602",
+    "Credits": 4
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BEE613x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Open Elective Course",
+    "SubjectCode": "BEE654x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Project Phase I",
+    "SubjectCode": "BEE685",
+    "Credits": 2
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Control System Lab",
+    "SubjectCode": "BEEL606",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Development Course",
+    "SubjectCode": "BEE657x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Electrical Engg Science Streams (EEE\/ECE\/ETC\/BM\/IE\/ML)",
+    "Semester": "6th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Design of RCC Structures",
+    "SubjectCode": "BCV601",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Irrigation Engineering and Hydraulic Structures",
+    "SubjectCode": "BCV602",
+    "Credits": 4
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BCV613x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Open Elective Course",
+    "SubjectCode": "BCV654x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Major Project Phase I",
+    "SubjectCode": "BCV685",
+    "Credits": 2
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Software Application Lab",
+    "SubjectCode": "BCVL606",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Development Course",
+    "SubjectCode": "BCV657x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Civil Engineering Stream (CV\/EV\/TR\/CC)",
+    "Semester": "6th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Heat Transfer",
+    "SubjectCode": "BME601",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Machine Design",
+    "SubjectCode": "BME602",
+    "Credits": 4
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Professional Elective Course",
+    "SubjectCode": "BME613x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Open Elective Course",
+    "SubjectCode": "BME654x",
+    "Credits": 3
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Major Project Phase - I",
+    "SubjectCode": "BME685",
+    "Credits": 2
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Design lab",
+    "SubjectCode": "BMEL606L",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "Ability Enhancement Course\/Skill Development Course",
+    "SubjectCode": "BME657x",
+    "Credits": 1
+   },
+   {
+    "Branch": "Mechanical Engineering Streams ( AE\/AS\/AU\/ME\/IP\/IM\/CH\/SX\/TX)",
+    "Semester": "6th Semester",
+    "SubjectName": "NSS \/ PE \/ Yoga",
+    "SubjectCode": "BNSK359 \/ BPEK359 \/ BYOK359",
+    "Credits": 0
+   }
+  ]
+  }

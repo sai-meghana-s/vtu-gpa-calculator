@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #0066ff, #00ccff); 
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: auto;
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+#cgpa-fields {
+    background-color: #f9f9f9;
+    padding: 20px;
+    max-width: 450px;
+    margin: auto;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+}
+
+.cgpa-field {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: background 0.3s, border-color 0.3s;
+}
+
+.cgpa-field:hover {
+    background: #f1f1f1;
+    border-color: #6c63ff;
+}
+
+.sgpa-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    transition: border-color 0.3s;
+}
+
+.sgpa-input:focus {
+    border-color: #6c63ff;
+    outline: none;
+}
+
+.sgpa-input::placeholder {
+    color: #aaa;
+}
+
+button {
+    background: #ff6600;
+    color: white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background: #cc5200;
+    transform: scale(1.05);
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.type-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px;
+    margin-top: 15px;
+    justify-content: center;
+}
+.semester-buttons {
+    gap: 50px;
+    margin: 10px;
+    margin-top: 15px;
+    justify-content: center; 
+    text-align: center;
+}
+    
+.total-row {
+    background-color: #f0f0f0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.total-label {
+    text-align: right;
+    font-weight: bold;
+}
+
+
+.formula {
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.fraction {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.numerator ,.denominator{
+    display: block;
+    font-weight: bold;
+    padding-bottom: 2px;
+}
+.numerator {
+    border-bottom: 2px solid black;
+}
+
+
+.cgpa-instruction {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+}
+
+
+#cgpa-result,#result {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+
+.sgpa-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+.sgpa-section {
+    flex: 1;
+    min-width: 250px;
+    max-width: 300px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+.scrollable {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px auto;
+    max-width: 600px;
+}
+.reset-btn, button.back-btn {
+    display: block;
+    width: 120px;
+    margin: 20px auto;
+    background-color: #1f6b28;  
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+button.back-btn:hover, .reset-btn:hover {
+    background-color: #2dac2d; 
+}
+
+.hidden {
+    display: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    button {
+        width: 90%;
+    }
+}
