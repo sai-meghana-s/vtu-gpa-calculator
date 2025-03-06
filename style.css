@@ -212,19 +212,13 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    overflow-x: auto;
-    display: block;
-    max-width: 100%;
+    
 }
 
 th, td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: center;
-    white-space: nowrap;
-}
-
-th,td {
     background-color: wheat;
 }
 
@@ -237,14 +231,5 @@ th,td {
     button {
         width: 90%;
     }
-    table {
-        display: block;
-        overflow-x: auto;
-        white-space: nowrap;
-    }
-
-    th, td {
-        padding: 6px;
-        font-size: 14px;
-    }
+    
 }
