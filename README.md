@@ -61,4 +61,4 @@ Simply open the `index.html` file in a web browser to view the SGPA & CGPA Calcu
 ## Contact
 For any inquiries or questions, you can reach me at:
 - **GitHub**: [https://github.com/sai-meghana-s]
-- **LinkedIn**: [www.linkedin.com/in/sai-meghana-s-bb323a30a ]
+- **LinkedIn**: [www.linkedin.com/in/sai-meghana-s]
